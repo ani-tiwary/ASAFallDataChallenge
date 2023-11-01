@@ -1,0 +1,17 @@
+# Ignore compiled Python files and bytecode
+*.pyc
+__pycache__
+
+# Ignore virtual environment folders (if you're using virtual environments)
+data/
+
+# Ignore your editor or IDE-specific files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore local configuration files
+survey_results_public_cleaned.csv
+survey_results_public_cleaned_use.csv
